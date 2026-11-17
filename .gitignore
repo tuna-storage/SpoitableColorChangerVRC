@@ -1,0 +1,21 @@
+# Claude Code のローカル設定と引き継ぎ
+.claude/
+
+# Unity が作るもの(このリポジトリを Unity プロジェクトとして開いた場合)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+
+# ビルド成果物(リリースの workflow が作る)
+*.unitypackage
+*.zip

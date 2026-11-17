@@ -1,0 +1,16 @@
+{
+    "name": "faketuna.SpoitableColorChanger.Runtime",
+    "rootNamespace": "faketuna.spoitable_color_changer",
+    "references": [
+        "nadena.dev.ndmf.runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,29 @@
+{
+  "name": "dev.f2a.spoitable-color-changer",
+  "displayName": "Spoitable Color Changer",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "アバターのテクスチャ(髪など)を、NDMF のビルド時にグラデーションで塗り替えるエディタ拡張。元のテクスチャとマテリアルは書き換えない。塗りマスク・グラデーションマスク・色の経路で、色を乗せる範囲と並びを決められる。",
+  "author": {
+    "name": "faketuna",
+    "url": "https://github.com/tuna-storage"
+  },
+  "license": "MIT",
+  "licensesUrl": "https://github.com/tuna-storage/SpoitableColorChangerVRC/blob/main/LICENSE",
+  "documentationUrl": "https://github.com/tuna-storage/SpoitableColorChangerVRC",
+  "changelogUrl": "https://github.com/tuna-storage/SpoitableColorChangerVRC/blob/main/Packages/dev.f2a.spoitable-color-changer/CHANGELOG.md",
+  "keywords": [
+    "VRChat",
+    "NDMF",
+    "Avatar",
+    "Texture",
+    "Recolor"
+  ],
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.0",
+    "nadena.dev.ndmf": ">=1.13.0 <2.0.0"
+  },
+  "legacyFolders": {
+    "Assets\\faketuna\\SpoitableColorChanger": "5217018f3bffbd144a7e10efb1639f25"
+  }
+}

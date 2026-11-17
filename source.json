@@ -1,0 +1,18 @@
+{
+  "name": "Spoitable Color Changer",
+  "id": "dev.f2a.spoitable-color-changer.listing",
+  "url": "https://tuna-storage.github.io/SpoitableColorChangerVRC/index.json",
+  "author": {
+    "name": "faketuna",
+    "url": "https://github.com/tuna-storage"
+  },
+  "description": "アバターのテクスチャを NDMF のビルド時にグラデーションで塗り替えるエディタ拡張",
+  "infoLink": {
+    "text": "GitHub",
+    "url": "https://github.com/tuna-storage/SpoitableColorChangerVRC"
+  },
+  "bannerUrl": "",
+  "githubRepos": [
+    "tuna-storage/SpoitableColorChangerVRC"
+  ]
+}

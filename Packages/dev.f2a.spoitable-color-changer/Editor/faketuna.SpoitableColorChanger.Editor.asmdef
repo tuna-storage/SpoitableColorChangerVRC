@@ -1,0 +1,23 @@
+{
+    "name": "faketuna.SpoitableColorChanger.Editor",
+    "rootNamespace": "faketuna.spoitable_color_changer.editor",
+    "references": [
+        "faketuna.SpoitableColorChanger.Runtime",
+        "nadena.dev.ndmf",
+        "nadena.dev.ndmf.runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "System.Collections.Immutable.dll",
+        "VRCSDKBase.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
